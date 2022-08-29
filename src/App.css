@@ -1,0 +1,33 @@
+*{
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+.Loginform {
+   
+   text-align: center;
+   justify-content: center;
+   box-shadow: 0 0.188em 1.550em rgb(97, 194, 194);
+   border-radius: 10px;
+   margin: 200px;
+}
+
+
+.navbar {
+    justify-content: top;
+    background-color: black;
+    box-shadow: 0 0.188em 1.550em rgb(97, 194, 194);
+    
+}
+
+#submitbutton {
+    background-color: rgba(83, 83, 102, 0.233);
+}
+
+h3 {
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
